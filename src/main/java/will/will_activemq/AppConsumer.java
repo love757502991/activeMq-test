@@ -57,7 +57,7 @@ public class AppConsumer {
                 connection.close();
 
             } catch (Exception e) {
-                System.out.println("Caught: " + e);
+                System.out.println("Caught: " + e); 
             }
 
         }
